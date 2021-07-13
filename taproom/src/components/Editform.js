@@ -26,3 +26,6 @@ EditKegForm.propTypes = {
 };
 
 export default EditKegForm;
+
+
+//change file name to EditForm
