@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App]
 
 ## Project Description
 
-This project allows the user to add Keg information to a Keg ticket and load that to a list that can be reviewed.
+This project allows the user to add Keg information to a Keg ticket and load that to a list that can be reviewed. Also the used is able to subtract pints from the total number in the keg.
 
 ## Available Scripts
 
